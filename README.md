@@ -1,1 +1,1 @@
-# flexblog
+Desenvolvido com HTML5, CSS3, FlexBox JavaScript
